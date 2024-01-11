@@ -1,0 +1,6 @@
+[submodule "modules/Apps/Jobs"]
+	path = modules/Apps/Jobs
+	url = git@github.com:DexterDevelopers/Jobs.git
+[submodule "modules/Apps/Politiza"]
+	path = modules/Apps/Politiza
+	url = git@github.com:DexterDevelopers/Politiza.git
